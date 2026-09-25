@@ -8,7 +8,7 @@ Debt collection system
 - 1.4 Payments & Allocation
 - 1.5 Billings & Invoices
 - 1.6 Dialer Emulator
-- 1.7 Connection Channels
+- 1.7 Communication Channels
 
 ### 1.1 Case Management
 - adding cases, debtors
@@ -16,6 +16,8 @@ Debt collection system
 - managing and viewing case
 - trakcing case audit and log
 - adding notes to case
+
+[More...](modules/CaseManagement.md)
 
 ### 1.2 Data ingestion
 - process batch files (excel)
@@ -41,6 +43,6 @@ Simulates outbound call center workflows, call distribution, and audio recording
 - Angular 
 - WebSockets
 
-### 1.7 Connection channels
+### 1.7 Communication Channels
 - sending emails
 - creating templates
